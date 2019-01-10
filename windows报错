@@ -1,0 +1,3 @@
+VirtualAlloc() failed: [0x00000008] Not enough storage is available to process this command.
+
+VirtualFree() failed: [0x000001e7] Attempt to access invalid address.
